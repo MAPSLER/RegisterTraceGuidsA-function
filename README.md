@@ -1,0 +1,2 @@
+# RegisterTraceGuidsA-function
+RegisterTraceGuidsA function
